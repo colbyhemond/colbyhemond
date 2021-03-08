@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My personal [website](https://colbyhemond.me)
+My most recent [completed project](https://pinebarkboardingandgrooming.com)
+
 <!--
 **colbyhemond/colbyhemond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
