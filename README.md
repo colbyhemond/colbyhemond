@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - My personal [website](https://colbyhemond.me)
-- My most recent [completed project](https://pinebarkboardingandgrooming.com)
+- My most recent [completed project](https://thehaircodesalon.com)
 - Volunteer at Code for UV ([GitHub](https://github.com/codeforUV)) ([Website](https://codeforuv.org/))  
 
 <!--
