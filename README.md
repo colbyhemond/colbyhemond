@@ -2,7 +2,8 @@
 
 - My personal [website](https://colbyhemond.me)
 - My most recent [completed project](https://thehaircodesalon.com)
-- Volunteer at Code for UV ([GitHub](https://github.com/codeforUV)) ([Website](https://codeforuv.org/))  
+- Volunteer at Code for UV ([GitHub](https://github.com/codeforUV)) ([Website](https://codeforuv.org/))
+- Public Relations Chair for the ([Upper Valley Young Professionals](https://uvyp.org/our-team/#colby-hemond))
 
 <!--
 **colbyhemond/colbyhemond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
