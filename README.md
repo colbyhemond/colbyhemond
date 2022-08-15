@@ -2,7 +2,7 @@
 
 # Howdy!
 
-I'm a SAP ABAP developer by day, and a web developer by night.
+I'm an SAP Technical Consultant, but like to dabble in other things too!
 
 - My personal [website](https://colbyhemond.me)
 - Volunteer at Code for UV ([GitHub](https://github.com/codeforUV)) ([Website](https://codeforuv.org/))
